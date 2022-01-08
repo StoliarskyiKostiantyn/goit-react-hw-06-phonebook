@@ -1,8 +1,8 @@
 {
   "name": "goit-react-hw-06-hooks-phonebook",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://StoliarskyiKostiantyne.github.io/goit-react-hw-06-hooks-phonebook",
+  "private": true,
+  "homepage": "https://stoliarskyikostiantyn.github.io/goit-react-hw-06-phonebook",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.14.1",
